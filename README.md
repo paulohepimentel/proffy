@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 
 ## ✦ Aplicação
-**Web e Mobile:**
+**Web:**
 <p align="center">
     <img alt="Web" title="Web" src="images/web.png" width="100%"/>
 </p>
