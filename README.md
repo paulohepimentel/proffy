@@ -16,7 +16,7 @@
 
 ## ✦ Projeto
 <p align="justify">
-O Proffy foi o sistema desenvolvido durante o evento NLW da Rocketseat. O projeto consistiu na implementação de uma aplicação completa (front, back, app) que possui como objetivo conectar professores e alunos das mais diversas áreas.
+O Proffy foi o sistema desenvolvido durante o evento NLW da Rocketseat. O projeto consistiu na implementação de uma aplicação completa (front, back, app) que possui como objetivo conectar professores e alunos das mais diversas áreas. Tendo como princípio o conceito mobile first.
 </p>
 
 ## ✦ Tecnologias
